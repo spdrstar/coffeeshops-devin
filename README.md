@@ -15,3 +15,5 @@ Please follow the guidelines outlined in the `CONTRIBUTING.md` file when contrib
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+<!-- Trivial change for creating a pull request -->
